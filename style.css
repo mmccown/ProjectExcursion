@@ -3,16 +3,18 @@ body
 background-color: black;
 font-family: Verdana;
 text-align: center;
+color: white;
 }
 
 #h1 {
   color: white;
   font-family: Verdana;
+  font-weight: normal;
   text-align: center;
   font-size: 50px;
 }
  #link1 {
-   color: aqua;
+   color: aquamarine;
    text-align: center;
    font-size: 16px;
  }
