@@ -1,10 +1,11 @@
 body
 {
-background-color:black;
-
+background-color: black;
+font-family: Verdana;
+text-align: center;
 }
 
-#header1 h1{
+#h1 h1{
   color: white;
   font-family: Verdana;
   font-weight: bold;
