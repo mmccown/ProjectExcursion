@@ -1,9 +1,18 @@
-body, h1
+body
 {
 background-color:black
-font-family: Verdana;
-font-weight: bold;
-color: white;
-text-align: center;
 
 }
+
+#header1 h1{
+  color: white;
+  font-family: Verdana;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+ #link1 h2{
+   color: aqua;
+   text-align: center;
+   font-size: 16px;
+ }
