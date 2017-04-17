@@ -34,16 +34,21 @@ color: white;
    color: gray;
  }
 
- .camp {
+ .camp{
    image-orientation: center;
  }
 
- .phone {
+ .phone{
    image-orientation: center;
  }
 
- .soon {
+ .soon{
    font-size: 42px;
    font-weight: bold;
    font-family: Verdana;
+ }
+
+ .copyright{
+   color: gray;
+   text-align: right;
  }
